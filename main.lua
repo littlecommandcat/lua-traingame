@@ -1,8 +1,8 @@
-local Map = require("src.map")
-local City = require("src.city")
-local Station = require("src.station")
-local Railway = require("src.railway")
-local Train = require("src.train")
+local Map = require("logic.map")
+local City = require("logic.city")
+local Station = require("logic.station")
+local Railway = require("logic.railway")
+local Train = require("logic.train")
 
 local mainCity
 local railway
